@@ -1,0 +1,274 @@
+[
+  {
+    "id": 1,
+    "name": "Adobe Photoshop",
+    "nameDescription": "Professional photo editing & creative design",
+    "listDescription": "What I can do:",
+    "skillList": [
+      "Professional photo retouching and skin correction",
+      "Color correction and color grading",
+      "Social media post and ad creative design",
+      "Thumbnail, poster, and banner design",
+      "Background removal and object manipulation",
+      "Web and UI graphic design assets"
+    ],
+    "experience": "Used Photoshop in real-world projects including social media creatives, website graphics, thumbnails, marketing banners, and branding assets.",
+    "btn1": "View Design Work",
+    "btn2": "Hire Me for Design Work"
+  },
+  {
+    "id": 2,
+    "name": "Adobe Illustrator",
+    "nameDescription": "Vector-based design & illustration",
+    "listDescription": "What I can do:",
+    "skillList": [
+      "Logo and brand identity design",
+      "Vector illustrations and icons",
+      "Print-ready designs",
+      "Typography and lettering",
+      "Social media graphics",
+      "Infographics and visual assets"
+    ],
+    "experience": "Created logos, brand materials, icons, and vector assets for digital and print use.",
+    "btn1": "View Illustrations",
+    "btn2": "Hire Me for Design"
+  },
+  {
+    "id": 3,
+    "name": "Adobe Premiere Pro",
+    "nameDescription": "Professional video editing & storytelling",
+    "listDescription": "What I can do:",
+    "skillList": [
+      "Video editing and trimming",
+      "Color correction and basic grading",
+      "Audio syncing and enhancement",
+      "YouTube and social media videos",
+      "Transitions and effects",
+      "Exporting optimized videos"
+    ],
+    "experience": "Used for YouTube videos, promotional content, reels, and social media edits.",
+    "btn1": "View Video Work",
+    "btn2": "Hire Me for Editing"
+  },
+  {
+    "id": 4,
+    "name": "Adobe After Effects",
+    "nameDescription": "Motion graphics & visual effects",
+    "listDescription": "What I can do:",
+    "skillList": [
+      "Motion graphics and animations",
+      "Text and logo animations",
+      "Visual effects enhancement",
+      "Lower thirds and titles",
+      "Social media animations",
+      "Intro and outro videos"
+    ],
+    "experience": "Created animated content for videos, branding, and social media platforms.",
+    "btn1": "View Animations",
+    "btn2": "Hire Me for Motion Design"
+  },
+  {
+    "id": 5,
+    "name": "Cinema 4D",
+    "nameDescription": "3D modeling & animation",
+    "listDescription": "What I can do:",
+    "skillList": [
+      "3D modeling and text design",
+      "Lighting and rendering",
+      "Product visualization",
+      "Basic 3D animations",
+      "Scene composition",
+      "Integration with After Effects"
+    ],
+    "experience": "Used for 3D text, product visuals, and motion graphic projects.",
+    "btn1": "View 3D Work",
+    "btn2": "Hire Me for 3D Design"
+  },
+  {
+    "id": 6,
+    "name": "Figma",
+    "nameDescription": "UI/UX design & prototyping",
+    "listDescription": "What I can do:",
+    "skillList": [
+      "UI design for web and mobile",
+      "Wireframing and prototyping",
+      "Design systems and components",
+      "Collaboration and handoff",
+      "Responsive layouts",
+      "User-focused design"
+    ],
+    "experience": "Designed UI layouts, prototypes, and design systems for websites and apps.",
+    "btn1": "View UI Designs",
+    "btn2": "Hire Me for UI/UX"
+  },
+  {
+    "id": 7,
+    "name": "CapCut",
+    "nameDescription": "Fast-paced social media video editing",
+    "listDescription": "What I can do:",
+    "skillList": [
+      "Short-form video editing",
+      "Reels and TikTok videos",
+      "Text animations",
+      "Music and beat sync",
+      "Transitions and effects",
+      "Mobile-first content"
+    ],
+    "experience": "Used for quick social media videos and engaging short-form content.",
+    "btn1": "View Short Videos",
+    "btn2": "Hire Me for Reels"
+  },
+  {
+    "id": 8,
+    "name": "Camtasia",
+    "nameDescription": "Screen recording & tutorial creation",
+    "listDescription": "What I can do:",
+    "skillList": [
+      "Screen recording",
+      "Tutorial video editing",
+      "Audio cleanup",
+      "Callouts and annotations",
+      "Educational content creation",
+      "Export optimized videos"
+    ],
+    "experience": "Created tutorials, explainer videos, and training content.",
+    "btn1": "View Tutorials",
+    "btn2": "Hire Me for Tutorials"
+  },
+  {
+    "id": 9,
+    "name": "Facebook Marketing",
+    "nameDescription": "Social media management & ads",
+    "listDescription": "What I can do:",
+    "skillList": [
+      "Page management",
+      "Content strategy",
+      "Ad creative design",
+      "Audience targeting",
+      "Post scheduling",
+      "Analytics monitoring"
+    ],
+    "experience": "Managed pages and created marketing content for Facebook platforms.",
+    "btn1": "View Campaigns",
+    "btn2": "Hire Me for Marketing"
+  },
+  {
+    "id": 10,
+    "name": "Instagram Marketing",
+    "nameDescription": "Visual content & growth strategy",
+    "listDescription": "What I can do:",
+    "skillList": [
+      "Post and reel design",
+      "Content planning",
+      "Hashtag strategy",
+      "Brand aesthetics",
+      "Engagement optimization",
+      "Analytics tracking"
+    ],
+    "experience": "Created and managed Instagram content focused on growth and engagement.",
+    "btn1": "View Instagram Work",
+    "btn2": "Hire Me for Instagram"
+  },
+  {
+    "id": 11,
+    "name": "YouTube Management",
+    "nameDescription": "Video optimization & channel growth",
+    "listDescription": "What I can do:",
+    "skillList": [
+      "Thumbnail design",
+      "Video editing support",
+      "SEO-friendly titles",
+      "Description optimization",
+      "Channel branding",
+      "Content strategy"
+    ],
+    "experience": "Worked on YouTube content creation, optimization, and branding.",
+    "btn1": "View Channel Work",
+    "btn2": "Hire Me for YouTube"
+  },
+  {
+    "id": 12,
+    "name": "Microsoft Office",
+    "nameDescription": "Office productivity & documentation",
+    "listDescription": "What I can do:",
+    "skillList": [
+      "Professional document creation",
+      "Spreadsheet management",
+      "Presentations and slides",
+      "Data formatting",
+      "Reports and summaries",
+      "Office automation basics"
+    ],
+    "experience": "Used for reports, presentations, and office documentation tasks.",
+    "btn1": "View Samples",
+    "btn2": "Hire Me for Office Work"
+  },
+  {
+    "id": 13,
+    "name": "Sparkol VideoScribe",
+    "nameDescription": "Whiteboard animation videos",
+    "listDescription": "What I can do:",
+    "skillList": [
+      "Whiteboard animation videos",
+      "Educational storytelling",
+      "Script-based visuals",
+      "Voice-over syncing",
+      "Explainer videos",
+      "Export optimized animations"
+    ],
+    "experience": "Created explainer and educational whiteboard animation videos.",
+    "btn1": "View Explainers",
+    "btn2": "Hire Me for Explainer Videos"
+  },
+  {
+    "id": 14,
+    "name": "Inkscape",
+    "nameDescription": "Open-source vector design",
+    "listDescription": "What I can do:",
+    "skillList": [
+      "Logo design",
+      "Vector illustrations",
+      "Icon creation",
+      "SVG graphics",
+      "Print-ready files",
+      "Basic branding assets"
+    ],
+    "experience": "Used for logo and vector-based graphic design projects.",
+    "btn1": "View Logo Work",
+    "btn2": "Hire Me for Logo Design"
+  },
+  {
+    "id": 15,
+    "name": "AutoCAD",
+    "nameDescription": "2D drafting & technical drawings",
+    "listDescription": "What I can do:",
+    "skillList": [
+      "2D floor plans",
+      "Technical drawings",
+      "Accurate measurements",
+      "Layout design",
+      "Blueprint reading",
+      "Export for print"
+    ],
+    "experience": "Created technical drawings and layouts for architectural and design use.",
+    "btn1": "View Drawings",
+    "btn2": "Hire Me for Drafting"
+  },
+  {
+    "id": 16,
+    "name": "Filmora",
+    "nameDescription": "User-friendly video editing",
+    "listDescription": "What I can do:",
+    "skillList": [
+      "Basic to intermediate video editing",
+      "YouTube and social videos",
+      "Text and transition effects",
+      "Music and audio sync",
+      "Quick exports",
+      "Template-based edits"
+    ],
+    "experience": "Used for fast video edits and content creation projects.",
+    "btn1": "View Video Samples",
+    "btn2": "Hire Me for Video Editing"
+  }
+]

@@ -1,0 +1,97 @@
+#Project-Header{
+    height: 100svh;
+    /* background: gray; */
+    margin-top: -5rem;
+    .hero-tell{
+        width: 100%;
+        text-align: center;
+        font-size: 3rem;
+        /* margin-top: 2rem; */
+        position: absolute;
+        top: 10%;
+        left: 50%;
+        transform: translateX(-50%);
+        span{
+            color: chocolate;
+        }
+    }
+    .header-img{
+        height: 100%;
+        /* background: red; */
+        display: flex;
+        justify-content: center;
+        align-items: end;
+        position: relative;
+        &::before, &::after{
+            content: 'FUNCTIONALITY';
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 5rem;
+            font-weight: bold;
+            color: #002057;
+                        /* margin: 1rem 0; */
+                        background: linear-gradient(90deg, #ff0000, #ffff00, #ff00f3, #0033ff, #ff00c4, #ff0000);
+                        background-size: 400%;
+                        word-spacing: 5px;
+                        -webkit-text-fill-color: transparent;
+                        background-clip: text;
+                        -webkit-background-clip: text;
+            position: absolute;
+            top: 40%;
+        }
+        &::after{
+            left: 10%;
+
+        }
+        &::before{
+            content: 'CREATIVITY';
+            top: 40%;
+            right: 15%;
+        }
+        img{
+            height: 90%;
+        }
+    }
+}
+
+#Project-Body{
+    .product-container{
+        /* background: red; */
+        width: 80%;
+        margin: auto;
+        .project-title{
+            font-size: 4rem;
+            text-align: center;
+        }
+        .project-template img{
+            width: 50%;
+            display: block;
+            margin: auto;
+        }
+        .project-details {
+            .project-item {
+                background: wheat;
+                display: flex;
+                align-items: center;
+                gap: 5rem;
+                margin-block: 5rem;
+                &:nth-child(odd) img {
+                    background: red;
+                    border: 0.5rem solid black;
+                    align-self: flex-end;
+                }
+                &:nth-child(even) {
+                    flex-direction: row-reverse;
+                    img {
+                        align-self: flex-start;
+                        border: 0.5rem solid black;
+                    }
+                }
+                .project-item-details {
+                    /* padding: 3rem; */
+                    width: fit-content;
+                    /* background: wheat; */
+                }
+            }
+        }
+    }
+}
