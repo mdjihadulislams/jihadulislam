@@ -1,2 +1,2 @@
 # jihadul-islam-portfolio
-Thsi is a portfolio site of JIHADUL ISLAM SHUMON which is created by ABDUR RAHMAN SHAKIB...
+Thsi is a portfolio site of JIHADUL ISLAM SHUMON
